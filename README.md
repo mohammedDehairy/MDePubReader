@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Installation
 
--drag the MDePubReaderViewController folder to your Project 
+- drag the MDePubReaderViewController folder to your Project 
 
 - add QuartzCore.framework and libz.1.2.5.dylib to your project
 
@@ -27,7 +27,7 @@ Use
 - initialize MDePubReaderViewController with MDePubReaderViewController_iPhone xib file if you are using it in iphone 
 or MDePubReaderViewController_iPad if you are using it in iPad.
 
--set _strFileName property of the MDePubReaderViewController instance to the ePub file name in the bundle 
+- set _strFileName property of the MDePubReaderViewController instance to the ePub file name in the bundle 
 
 - if the ePub file is in the documents Directory of the app set the MDePubReaderViewController FileInDocumentsDirectory 
 Property to yes ,and set the _strFileName property to the ePub file path in the Documents directory

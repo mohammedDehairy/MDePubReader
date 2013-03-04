@@ -21,15 +21,15 @@ Installation
 
 Use
 
-1. initialize MDePubReaderViewController with MDePubReaderViewController_iPhone xib file if you are using it in iphone 
+- initialize MDePubReaderViewController with MDePubReaderViewController_iPhone xib file if you are using it in iphone 
 or MDePubReaderViewController_iPad if you are using it in iPad.
 
-2.set _strFileName property of the MDePubReaderViewController instance to the ePub file name in the bundle 
+-set _strFileName property of the MDePubReaderViewController instance to the ePub file name in the bundle 
 
-3. if the ePub file is in the documents Directory of the app set the MDePubReaderViewController FileInDocumentsDirectory 
+- if the ePub file is in the documents Directory of the app set the MDePubReaderViewController FileInDocumentsDirectory 
 Property to yes ,and set the _strFileName property to the ePub file path in the Documents directory
 
-4. THATS IT.
+- THATS IT.
 
 
 

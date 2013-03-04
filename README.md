@@ -14,11 +14,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Installation
 
-1.drag the MDePubReaderViewController folder to your Project 
+-drag the MDePubReaderViewController folder to your Project 
 
-2. add QuartzCore.framework and libz.1.2.5.dylib to your project
+- add QuartzCore.framework and libz.1.2.5.dylib to your project
 
-3. disable ARC to XMLHandler.m ,ZipArchive.m,And ePubContent.m.
+- disable ARC to XMLHandler.m ,ZipArchive.m,And ePubContent.m.
 
 
 
